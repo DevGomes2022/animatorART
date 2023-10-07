@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#imagem {
+    width: 24px;
+    height: 28px;
+}
+
+#botaoTrocar {
+    background-color: transparent;
+    color: transparent;
+}
+
+#velocidade {
+    margin-left: 80px;
+}
