@@ -1,11 +1,15 @@
 const imagens = [
-    "assets/Fantasma-com-perna/ft1.png",
-    "assets/Fantasma-com-perna/ft2.png",
-    "assets/Fantasma-com-perna/ft3.png",
-    "assets/Fantasma-com-perna/ft4.png",
-    "assets/Fantasma-com-perna/ft5.png",
-    "assets/Fantasma-com-perna/ft6.png",
-    "assets/Fantasma-com-perna/ft7.png"
+    //"assets/Fantasma-com-perna/ft1.png",
+    //"assets/Fantasma-com-perna/ft2.png",
+    //"assets/Fantasma-com-perna/ft3.png",
+    //"assets/Fantasma-com-perna/ft4.png",
+    //"assets/Fantasma-com-perna/ft5.png",
+    //"assets/Fantasma-com-perna/ft6.png",
+    //"assets/Fantasma-com-perna/ft7.png"
+    "assets/Ninja-crow/ft1.png",
+    "assets/Ninja-crow/ft2.png",
+    "assets/Ninja-crow/ft3.png",
+    "assets/Ninja-crow/ft4.png"
     // Adicione mais URLs de imagens aqui
 ];
 
